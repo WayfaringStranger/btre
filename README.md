@@ -1,1 +1,1 @@
-### BT Real Estate Django Project!
+### BT Real Estate Django Project
